@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Engineering Intern"
+  company = "Facebook"
+  company_url = "https://terragraph.com/"
+  location = "Menlo Park, CA"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Software Intern on Facebook Terragraph Analytics:
+
+  * Network Management System (NMS) learning system design
+  * Architect, implement, and deploy data infra from scratch
+  * Optimize query server and database
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "System Engineering Intern"
+  company = "Google"
+  company_url = "https://store.google.com/product/google_wifi"
+  location = "Mountain View, CA"
+  date_start = "2017-06-01"
+  date_end = "2017-09-01"
+  description = """
+  System Intern on Google WiFi Analytics:
 
+  * Cloud data driven fleet-wide client profile data mining
+  * Design and implement new python analytics infrastructure from scratch
+  * Design and implement independent new InSights for Google Wifi
+  """
+
+[[experience]]
+  title = "System Engineering Intern"
+  company = "Qualcomm, 5G (NR) Research"
+  company_url = "https://www.qualcomm.com/invention/5g"
+  location = "San Diego, CA"
+  date_start = "2016-06-01"
+  date_end = "2016-09-01"
+  description = """
+  Research Intern on 5G Air Interface:
+
+  * Waveform design and evaluation for 5G high mobility communication
+  * Reference signal (DM-RS) and channel estimation design for massive MIMO
+  """
 +++

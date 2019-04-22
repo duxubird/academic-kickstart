@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "CV"
 subtitle = ""
 
 [design]
@@ -23,33 +23,33 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
-  
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+Resume is available upon request at xdurice *AT* gmail *dot* com
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+<!-- Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
 For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
@@ -69,4 +69,4 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
 **To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+{{% /alert %}} -->
