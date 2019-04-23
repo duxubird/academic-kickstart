@@ -13,13 +13,13 @@
   url = "#experience"
   weight = 30
 
-[[main]]
-  name = "Selected Publications"
-  url = "#featured"
-  weight = 20
+# [[main]]
+#   name = "Selected Publications"
+#   url = "#featured"
+#   weight = 20
 
 [[main]]
-  name = "All Publications"
+  name = "Selected Publications"
   url = "#publications"
   weight = 90
 
