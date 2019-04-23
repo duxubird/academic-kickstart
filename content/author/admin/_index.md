@@ -94,6 +94,8 @@ user_groups = ["Researchers", "Visitors"]
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
-Xu Du is a Ph.D. student working with
+I am a Ph.D. student working with
 <a href="https://www.ece.rice.edu/~ashu/"> Prof.Ashutosh Sabharwal</a>,
 at Rice University.
+I am also part of the <a href="http://argos.rice.edu/"> Rice massive MIMO</a> team and the
+<a href="http://cmc.rice.edu/"> Center for Multimedia Communication</a>.

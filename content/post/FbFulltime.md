@@ -1,5 +1,5 @@
 +++
-title = "Xu will join Facebook in Sep 2019 as a Research Scientist."
+title = "I will join Facebook in Sep 2019 as a Research Scientist."
 date = 2018-09-01T00:00:00-00:00
 draft = false
 

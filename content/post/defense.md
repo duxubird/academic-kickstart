@@ -1,5 +1,5 @@
 +++
-title = "Xu successfully defended his Ph.D. with title of 'Low-Latency Massive MIMO Design over Practical Channels'."
+title = "I successfully defended my Ph.D. with title of 'Low-Latency Massive MIMO Design over Practical Channels'."
 date = 2019-04-15T14:05:24-05:00
 draft = false
 
